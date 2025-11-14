@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Third</string>
+
+    <string name="settings_title">Настройки уведомления</string>
+    <string name="notification_title_hint">Заголовок уведомления *</string>
+    <string name="notification_title_error">Заголовок не может быть пустым</string>
+    <string name="notification_text_hint">Текст уведомления (опционально)</string>
+    <string name="expand_text_label">Разворачивать длинный текст</string>
+    <string name="priority_label">Приоритет</string>
+    <string name="open_activity_label">Открывать приложение при нажатии</string>
+    <string name="reply_action_label">Добавить ответ</string>
+    <string name="create_notification_button">Создать уведомление</string>
+
+    <string name="priority_high">High</string>
+    <string name="priority_default">Default</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_min">Min</string>
+
+    <string name="edit_title">Редактирование уведомления</string>
+    <string name="notification_id_hint">ID уведомления</string>
+    <string name="new_text_hint">Новый текст уведомления</string>
+    <string name="update_notification_button">Обновить уведомление</string>
+    <string name="clear_notifications_button">Очистить все уведомления</string>
+    <string name="notification_not_found">Уведомление с таким ID не найдено</string>
+    <string name="invalid_id">Введите корректный ID</string>
+    <string name="notification_updated">Уведомление обновлено</string>
+    <string name="no_notifications">Нет активных уведомлений</string>
+    <string name="all_notifications_cleared">Все уведомления удалены</string>
+
+    <string name="messages_title">Сообщения</string>
+    <string name="message_input_hint">Введите сообщение</string>
+    <string name="send_button">Отправить</string>
+    <string name="messages_list_title">Сообщения:</string>
+
+    <string name="reply_label">Введите ответ</string>
+    <string name="reply_action">Ответить</string>
+    <string name="notification_channel_name">Main Notifications</string>
+    <string name="notification_channel_description">Channel for app notifications</string>
+    <string name="updated_notification_title">Обновлено уведомление</string>
+    <string name="no_text_placeholder">(без текста)</string>
+    <string name="default_notification_title">Уведомление</string>
+</resources>
