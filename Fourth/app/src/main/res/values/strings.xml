@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fourth</string>
+
+    <string name="coroutines_count">Количество корутин: %d</string>
+    <string name="select_dispatcher">Выберите диспатчер</string>
+    <string name="sequential">Последовательно</string>
+    <string name="parallel">Параллельно</string>
+    <string name="lazy_launch">Отложенный запуск</string>
+    <string name="background_work">Фоновая работа</string>
+    <string name="launch_coroutines">Запустить корутины</string>
+    <string name="cancel_coroutines_count">Отменить (%d)</string>
+    <string name="all_coroutines_completed">Все %d корутин завершены!</string>
+    <string name="coroutines_cancelled">Отменено корутин: %d</string>
+
+    <string name="toast_exception">Ошибка TOAST: Ошибка выполнения</string>
+    <string name="snackbar_exception">Ошибка SNACKBAR: Ошибка выполнения</string>
+    <string name="reset_exception">Все настройки сброшены на значения по умолчанию</string>
+
+    <string name="dispatcher_default">Default</string>
+    <string name="dispatcher_io">IO</string>
+    <string name="dispatcher_main">Main</string>
+    <string name="dispatcher_unconfined">Unconfined</string>
+</resources>
