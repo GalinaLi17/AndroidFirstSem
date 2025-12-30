@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Room Homework App</string>
+
+    <string name="login_title">Вход в приложение</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="login_error">Ошибка авторизации</string>
+    <string name="unknown_error">Произошла неизвестная ошибка</string>
+
+    <string name="registration_title">Регистрация</string>
+    <string name="name_hint">Имя</string>
+    <string name="confirm_password_hint">Подтвердите пароль</string>
+    <string name="register_confirm_button">Зарегистрироваться</string>
+    <string name="back_button">Назад</string>
+    <string name="passwords_not_match">Пароли не совпадают</string>
+    <string name="user_exists">Пользователь с таким логином уже существует</string>
+    <string name="registration_error">Ошибка регистрации</string>
+
+    <string name="field_required">Поле обязательно для заполнения</string>
+    <string name="invalid_login">Неверный логин или пароль</string>
+
+    <string name="account_deleted">Аккаунт был удален. Вы можете его восстановить.</string>
+    <string name="account_permanently_deleted">Аккаунт был окончательно удален</string>
+    <string name="restore_account_title">Аккаунт был удален</string>
+    <string name="restore_account_message">Ваш аккаунт был удален, но его можно восстановить в течение 7 дней. Выберите действие:</string>
+    <string name="restore_account_button">Восстановить аккаунт</string>
+    <string name="delete_permanently_button">Удалить окончательно</string>
+    <string name="account_restored">Аккаунт успешно восстановлен</string>
+    <string name="account_permanently_deleted_message">Аккаунт был окончательно удален</string>
+
+    <string name="loading">Загрузка</string>
+    <string name="error">Ошибка</string>
+    <string name="success">Успешно</string>
+
+    <string name="content_list_title">Мой контент</string>
+    <string name="add_content_button">Добавить</string>
+    <string name="sort_button">Сортировка</string>
+    <string name="search_hint">Поиск</string>
+    <string name="empty_content">Контент отсутствует</string>
+    <string name="loading_content">Загрузка контента</string>
+    <string name="delete_content">Удалить</string>
+    <string name="confirm_delete">Удалить элемент?</string>
+
+    <string name="add_content_title">Добавить контент</string>
+    <string name="title_hint">Название</string>
+    <string name="description_hint">Описание</string>
+    <string name="category_hint">Категория</string>
+    <string name="rating_hint">Рейтинг</string>
+    <string name="poster_url_hint">URL постера (опционально)</string>
+    <string name="save_button">Сохранить</string>
+    <string name="cancel_button">Отмена</string>
+
+    <string name="profile_title">Профиль</string>
+    <string name="welcome_message">Привет, %s!</string>
+    <string name="logout_button">Выйти</string>
+    <string name="delete_account_button">Удалить аккаунт</string>
+    <string name="confirm_logout">Вы уверены, что хотите выйти?</string>
+    <string name="confirm_delete_account">Удалить аккаунт? Его можно будет восстановить в течение 7 дней.</string>
+
+    <string name="sort_by_title">По названию (А-Я)</string>
+    <string name="sort_by_date_newest">По дате (новые)</string>
+    <string name="sort_by_date_oldest">По дате (старые)</string>
+    <string name="sort_by_rating_high">По рейтингу (высокий)</string>
+    <string name="sort_by_rating_low">По рейтингу (низкий)</string>
+
+    <string name="category_movie">Фильм</string>
+    <string name="category_game">Игра</string>
+    <string name="category_book">Книга</string>
+    <string name="category_music">Музыка</string>
+    <string name="category_other">Другое</string>
+
+    <string name="sort_dialog_title">Сортировка</string>
+    <string name="apply_sort">Применить</string>
+
+    <string name="exit_dialog_title">Подтверждение</string>
+    <string name="exit_dialog_message">Вы уверены, что хотите выйти? Все несохраненные данные будут потеряны.</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="ok">OK</string>
+
+    <string name="unknown_user">Неизвестный пользователь</string>
+
+    <string name="clear_search">Очистить</string>
+    <string name="search_description">Поиск</string>
+    <string name="sort_description">Сортировка</string>
+    <string name="profile_description">Профиль</string>
+    <string name="add_description">Добавить</string>
+    <string name="delete_description">Удалить</string>
+    <string name="back_description">Назад</string>
+    
+    <string name="confirm_delete_item">Вы уверены, что хотите удалить \"%s\"?</string>
+    <string name="confirm_logout_message">Вы уверены, что хотите выйти из аккаунта?</string>
+    <string name="delete_account_message">Аккаунт будет помечен как удаленный. Вы сможете восстановить его в течение 7 дней.</string>
+    <string name="delete_button">Удалить</string>
+    <string name="retry_button">Повторить</string>
+    
+    <string name="registered_date">Зарегистрирован: %s</string>
+    <string name="rating_format">★ %.1f</string>
+    <string name="default_user_avatar">U</string>
+    <string name="default_username">user</string>
+    
+    <string name="error_loading_content">Ошибка загрузки контента</string>
+    <string name="error_user_not_authorized">Пользователь не авторизован</string>
+    <string name="error_user_not_found">Пользователь не найден</string>
+    <string name="error_loading_data">Ошибка загрузки данных</string>
+    <string name="error_deleting_account">Ошибка при удалении аккаунта</string>
+    <string name="error_adding_content">Ошибка при добавлении контента</string>
+    <string name="error_unknown">Произошла неизвестная ошибка</string>
+    
+    <string name="error_enter_title">Введите название</string>
+    <string name="error_enter_description">Введите описание</string>
+    <string name="error_select_category">Выберите категорию</string>
+    <string name="error_rating_range">Рейтинг должен быть от 0 до 5</string>
+    
+    <string name="content_added_successfully">Контент успешно добавлен</string>
+
+</resources>
